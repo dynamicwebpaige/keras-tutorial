@@ -3,3 +3,7 @@
 * **gradient descent**: 
 * **stochastic**:
 * **Symbolic AI**:
+* **tensor**:
+* `numpy`:
+* **batch normalization**:
+* **Bayesian**:
