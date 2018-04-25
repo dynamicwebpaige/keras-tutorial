@@ -5,7 +5,7 @@ This repo contains materials to support a three-hour introductory workshop on bu
 ### HOUR 1: THEORY
 * What is deep learning, and why should you care?
 * What is TensorFlow, and why can it be a pain to use?
-* What is Keras?
+* What is Keras, and why is it delightful?
 
 ### HOUR 2: GETTING STARTED WITH FEEDFORWARD NEURAL NETWORKS
 * Building a neural network in `numpy`, from nuts to bolts
