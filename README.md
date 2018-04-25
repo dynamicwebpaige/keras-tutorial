@@ -8,9 +8,9 @@ This repo contains materials to support a three-hour introductory workshop on bu
 * What is Keras, and why is it delightful?
 
 ### HOUR 2: GETTING STARTED WITH FEEDFORWARD NEURAL NETWORKS
-* Building a neural network in `numpy`, from nuts to bolts
-* Incorporating back propagation
-* Interpolating values for hidden nodes
+* Building a feedforward neural network by hand, and with `numpy`
+* Incorporating back propagation by hand and with `numpy`
+* Interpolating values for hidden nodes and building intuition
 
 ### HOUR 3: GETTING STARTED WITH KERAS
 * Specifying the model (`Sequential()`, `.add()`-ing layers)
