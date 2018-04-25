@@ -7,7 +7,9 @@ This repo contains materials to support a three-hour introductory workshop on bu
 * What is TensorFlow, and why can it be a pain to use?
 * What is Keras?
 
-### HOUR 2: GETTING STARTED WITH TENSORFLOW
-* Building a neural network, from nuts to bolts
+### HOUR 2: GETTING STARTED WITH FEEDFORWARD NEURAL NETWORKS
+* Building a neural network in `numpy`, from nuts to bolts
+* Incorporating back propagation
+* Interpolating values for hidden nodes
 
 ### HOUR 3: GETTING STARTED WITH KERAS
