@@ -13,3 +13,7 @@ This repo contains materials to support a three-hour introductory workshop on bu
 * Interpolating values for hidden nodes
 
 ### HOUR 3: GETTING STARTED WITH KERAS
+* Specifying the model (`Sequential()`, `.add()`-ing layers)
+* Compiling the model (`.compile()`, adding optimizers, understanding `loss`)
+* Fitting the model (`.fit()` with predictors and targets)
+* Optimizing the model (changing architectures - nodes, layers)
