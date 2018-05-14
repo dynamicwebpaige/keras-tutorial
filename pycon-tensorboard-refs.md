@@ -1,2 +1,7 @@
 * [Accessing TensorBoard from cloud VM](https://stackoverflow.com/questions/42277280/accessing-tensorboard-on-aws)
 * [TensorBoard API - Build Your Own Extensions](https://ai.googleblog.com/2017/09/build-your-own-machine-learning.html)
+* [`tf.keras.callbacks` doesn't support all of the TensorBoard plugins](https://medium.com/@akionakas/precision-recall-curve-with-keras-cd92647685e1)
+* [Graph visualization with TensorBoard](https://www.tensorflow.org/programmers_guide/graph_viz)
+* [Visualizing Learning with TensorBoard](https://www.tensorflow.org/programmers_guide/summaries_and_tensorboard)
+* [Keras callbacks with TensorBoard](https://stackoverflow.com/questions/42112260/how-do-i-use-the-tensorboard-callback-of-keras)
+* [TensorBoard Tutorial using something _other_ than MNIST](http://edwardlib.org/tutorials/tensorboard)
