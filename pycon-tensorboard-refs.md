@@ -5,3 +5,6 @@
 * [Visualizing Learning with TensorBoard](https://www.tensorflow.org/programmers_guide/summaries_and_tensorboard)
 * [Keras callbacks with TensorBoard](https://stackoverflow.com/questions/42112260/how-do-i-use-the-tensorboard-callback-of-keras)
 * [TensorBoard Tutorial using something _other_ than MNIST](http://edwardlib.org/tutorials/tensorboard)
+* [TensorBoard Quickstart](https://medium.com/@anthony_sarkis/tensorboard-quick-start-in-5-minutes-e3ec69f673af)
+* [Debugging NN with TensorBoard](https://www.analyticsvidhya.com/blog/2017/07/debugging-neural-network-with-tensorboard/)
+* [Blogpost (using MNIST)](https://jhui.github.io/2017/03/12/TensorBoard-visualize-your-learning/)
