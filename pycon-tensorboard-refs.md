@@ -11,3 +11,4 @@
 * [Debugging with TensorBoard plugins](https://www.youtube.com/watch?v=XcHWLsVmHvk)
 * [Plug-in How-To's](https://github.com/tensorflow/tensorboard-plugin-example/blob/master/README.md)
 * [Using TensorBoard with PyTorch](https://github.com/lanpa/tensorboard-pytorch)
+* [TensorBoard with PyTorch blog post](www.erogol.com/use-tensorboard-pytorch/)
