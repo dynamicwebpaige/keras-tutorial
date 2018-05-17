@@ -10,3 +10,4 @@
 * [Blogpost (using MNIST)](https://jhui.github.io/2017/03/12/TensorBoard-visualize-your-learning/)
 * [Debugging with TensorBoard plugins](https://www.youtube.com/watch?v=XcHWLsVmHvk)
 * [Plug-in How-To's](https://github.com/tensorflow/tensorboard-plugin-example/blob/master/README.md)
+* [Using TensorBoard with PyTorch](https://github.com/lanpa/tensorboard-pytorch)
