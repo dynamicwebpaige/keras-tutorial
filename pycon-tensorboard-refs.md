@@ -8,3 +8,5 @@
 * [TensorBoard Quickstart](https://medium.com/@anthony_sarkis/tensorboard-quick-start-in-5-minutes-e3ec69f673af)
 * [Debugging NN with TensorBoard](https://www.analyticsvidhya.com/blog/2017/07/debugging-neural-network-with-tensorboard/)
 * [Blogpost (using MNIST)](https://jhui.github.io/2017/03/12/TensorBoard-visualize-your-learning/)
+* [Debugging with TensorBoard plugins](https://www.youtube.com/watch?v=XcHWLsVmHvk)
+* [Plug-in How-To's](https://github.com/tensorflow/tensorboard-plugin-example/blob/master/README.md)
